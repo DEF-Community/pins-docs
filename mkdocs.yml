@@ -13,6 +13,16 @@ theme:
   custom_dir: docs/overrides
   language: en
 
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+    - scheme: marinecoders-light
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
   icon:
     repo: fontawesome/brands/github
 
@@ -25,20 +35,24 @@ theme:
   features:
     - content.code.annotate
     - content.tooltips
-    - navigation.indexes
-    - navigation.sections
-    - navigation.tabs
-    - navigation.top
+    - navigation.instant
     - navigation.tracking
+    - navigation.expand
+    - navigation.indexes 
+    - navigation.tabs
+    - navigation.tabs.sticky
     - search.highlight
     - search.share
     - search.suggest
     - announce.dismiss
-    
+
+extra_css:
+  - stylesheets/extra.css
+  
 markdown_extensions:
   - def_list
   - toc:
-      permalink: ⚓︎
+      permalink: true
   - footnotes
   - admonition
   - pymdownx.details
@@ -77,16 +91,12 @@ plugins:
 
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/marinecoders
-    - icon: fontawesome/brands/gitlab
-      link: https://web.git.mil/marine-coders
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/defenseentrepreneurs/
+    - icon: fontawesome/brands/github
+      link: https://github.com/DEF-Community/
     - icon: fontawesome/solid/square-rss
       link: https://docs.nationalsecurityinnovation.org/feed_rss_created.xml
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/DefenseEntrepreneurs
       
   consent:
     title: Cookie Consent
