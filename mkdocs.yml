@@ -1,4 +1,104 @@
 site_name: Docs | PINS
+site_url: https://docs.nationalsecurityinnovation.org/
+# site_url: https://marines.dev/
+site_description: "The Project on Innovation in National Security is an exploratory effort incubated by the Defense Entrepreneurs Forum that seeks to increase understanding of the national security innovation ecosystem, improve data literacy, and support learning mindsets with opportunities to experiment."
+slogan: "#AnyMarineACoder"
+
+repo_url: https://github.com/DEF-Community/pins-docs
+repo_name: DEF-Community/pins-docs
+edit_uri: ""
 
 theme:
   name: material
+  custom_dir: docs/overrides
+  language: en
+
+  icon:
+    repo: fontawesome/brands/github
+
+  static_templates:
+    - 404.html
+
+  include_search_page: false
+  search_index_only: true
+
+  features:
+    - content.code.annotate
+    - content.tooltips
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - announce.dismiss
+    
+markdown_extensions:
+  - def_list
+  - toc:
+      permalink: ⚓︎
+  - footnotes
+  - admonition
+  - pymdownx.details
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.smartsymbols
+  - pymdownx.progressbar
+  - tables
+  - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - footnotes
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - social:
+      cards_color:
+        fill: "#252a34" 
+        text: "#FFFFFF"
+  - meta:
+      meta_file: '**/.meta.yml' 
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/marinecoders
+    - icon: fontawesome/brands/gitlab
+      link: https://web.git.mil/marine-coders
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/defenseentrepreneurs/
+    - icon: fontawesome/solid/square-rss
+      link: https://docs.nationalsecurityinnovation.org/feed_rss_created.xml
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/DefenseEntrepreneurs
+      
+  consent:
+    title: Cookie Consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our conten and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our site better.</br>
+    actions:
+      - accept
+      - reject
+      
+copyright: >
+  Copyright &copy; 2020 Defense Entrepreneurs Forum, 501(C)(3)
+  </br><a href="#__consent"><small>Cookie Settings</small></a>

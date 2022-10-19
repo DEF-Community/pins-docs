@@ -4,9 +4,9 @@ description: Who can use project data or services and in what ways.
 
 # 📝 License
 
-{% hint style="warning" %}
-We are currently trying to find the best approach to copywrighting and licensing this project. Below are some thoughts we have, but they are not final - read on for more!
-{% endhint %}
+!!! warning
+	We are currently trying to find the best approach to copywrighting and licensing this project. Below are some thoughts we have, but they are not final - read on for more!
+
 
 **Our current thoughts about licensing are to use a** [**CC+ BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/) **license.**&#x20;
 

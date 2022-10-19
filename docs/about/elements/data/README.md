@@ -4,9 +4,9 @@ description: What we use to power this project.
 
 # 💻 Data
 
-{% hint style="info" %}
-If you are curious about our reasoning behind the certain aspects of the **`Data`**, check out our [what-criteria-do-you-use-to-collect-project-data.md](../../../frequently-asked-questions/what-criteria-do-you-use-to-collect-project-data.md "mention") page in the [Broken link](broken-reference "mention") section.
-{% endhint %}
+!!! info
+	If you are curious about our reasoning behind the certain aspects of the **`Data`**, check out our [what-criteria-do-you-use-to-collect-project-data.md](../../../frequently-asked-questions/what-criteria-do-you-use-to-collect-project-data.md "mention") page in the [Broken link](broken-reference "mention") section.
+
 
 The baseline product of this project is data, sourced from individuals like you, which feeds the [graph.md](../graph.md "mention"), [map.md](../map.md "mention"), and [timeline.md](../timeline.md "mention") (along with any future efforts or forks).
 

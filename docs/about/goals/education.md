@@ -12,6 +12,6 @@ We also know that such data literacy is sorely missing in the national security 
 
 Our hope is to work with [partners.md](../support/partners.md "mention") and leverage the [Broken link](broken-reference "mention") opportunities already available to connect people with a desire to do so to areas of the project where they can practice. In our experience it is much easier to learn when you have a problem to which those new concepts can be applied, and this project is hopefully one that will inspire people to take a leap and challenge themselves.
 
-{% hint style="info" %}
-If you like this idea and want to get involved, please check out the various sub-elements in the [Broken link](broken-reference "mention") section and feel free to [contact-us.md](../contact-us.md "mention") as well!
-{% endhint %}
+!!! info
+	If you like this idea and want to get involved, please check out the various sub-elements in the [Broken link](broken-reference "mention") section and feel free to [contact-us.md](../contact-us.md "mention") as well!
+

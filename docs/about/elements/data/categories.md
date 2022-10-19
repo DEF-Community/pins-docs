@@ -14,9 +14,9 @@ Right now we are using the following `Categories`:
 
 ### Government
 
-{% hint style="success" %}
-**`Government`** applies to any of the **`Entities`** that are governmental in nature
-{% endhint %}
+!!! success
+	**`Government`** applies to any of the **`Entities`** that are governmental in nature
+
 
 We believe this will generally be somewhat simple, but there are [entities.md](entities.md "mention") with very close ties to [#non-profit](categories.md#non-profit "mention")s we expect may take some disambiguation.
 
@@ -24,9 +24,9 @@ We believe this will generally be somewhat simple, but there are [entities.md](e
 
 ### Academic
 
-{% hint style="success" %}
-We applied **`Academic`** to **`Entities`** that have a  primary tie to universities or other educational institutions.&#x20;
-{% endhint %}
+!!! success
+	We applied **`Academic`** to **`Entities`** that have a  primary tie to universities or other educational institutions.&#x20;
+
 
 Although the majority of these are also `Non-Profit` (at least nominally), the distinction is significant enough to warrant a separate category in our judgment.
 
@@ -34,9 +34,9 @@ Although the majority of these are also `Non-Profit` (at least nominally), the d
 
 ### Non-Profit
 
-{% hint style="success" %}
-**`Non-Profit`** is applied to non-**`Academic`** **`Entities`** that do not operate for a profit as **`Commercial`** counterparts do.
-{% endhint %}
+!!! success
+	**`Non-Profit`** is applied to non-**`Academic`** **`Entities`** that do not operate for a profit as **`Commercial`** counterparts do.
+
 
 While sometimes challenging to distinguish from `Government` or `Academic` efforts (at least, we often find it confusing), this distinction applies to a number of `Entities` we think are important (such as us!).
 
@@ -44,9 +44,9 @@ While sometimes challenging to distinguish from `Government` or `Academic` effor
 
 ### Commercial
 
-{% hint style="success" %}
-We use **`Commercial`** with **`Entities`** whose primary goal is financial gain as measured by stakeholder value or other similar metric.
-{% endhint %}
+!!! success
+	We use **`Commercial`** with **`Entities`** whose primary goal is financial gain as measured by stakeholder value or other similar metric.
+
 
 These are generally wonderful teammates and great folks who care about the mission as much as the rest of us (but it is important to understand how their incentives and structures differ from other `Entities`).
 

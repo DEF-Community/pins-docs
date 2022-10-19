@@ -6,9 +6,9 @@ description: The links that show how Entities are related.
 
 We have a few different types of `Connections` that help characterize [entities.md](entities.md "mention") in the [graph.md](../graph.md "mention").
 
-{% hint style="info" %}
-[connections.md](connections.md "mention") **and** [entities.md](entities.md "mention") **are the two foundational building blocks of the** [.](./ "mention").
-{% endhint %}
+!!! info
+	[connections.md](connections.md "mention") **and** [entities.md](entities.md "mention") **are the two foundational building blocks of the** [.](./ "mention").
+
 
 ## Links
 
@@ -16,9 +16,9 @@ We are currently exploring these `Connections` and may add others. As with `Tags
 
 ### Org Chart
 
-{% hint style="success" %}
-An **`Org Chart`** connection links parent and child in an organizational hierarchy.&#x20;
-{% endhint %}
+!!! success
+	An **`Org Chart`** connection links parent and child in an organizational hierarchy.&#x20;
+
 
 Almost all of the existing maps look at this dimension, which is important, especially for `Government` `Organizations` (which are subject to the views of their parent organizations and leadership, not to mention funding).
 
@@ -26,9 +26,9 @@ Almost all of the existing maps look at this dimension, which is important, espe
 
 ### Collaboration
 
-{% hint style="success" %}
-To be in **`Collaboration`** is to have mutually-supportive shared efforts, which could link any number of **`Entities`**.
-{% endhint %}
+!!! success
+	To be in **`Collaboration`** is to have mutually-supportive shared efforts, which could link any number of **`Entities`**.
+
 
 While somewhat flexible (and, thus, subject to change or redifinition) we wanted to include this type of connection in order to demonstrate ties that we know exist and make a difference.
 
@@ -36,9 +36,9 @@ While somewhat flexible (and, thus, subject to change or redifinition) we wanted
 
 ### Funding
 
-{% hint style="success" %}
-**`Funding`** identifies a connection between an **`Individual`** or **`Organization`** and another **`Organization`**, **`Group`**, or **`Activity`**..
-{% endhint %}
+!!! success
+	**`Funding`** identifies a connection between an **`Individual`** or **`Organization`** and another **`Organization`**, **`Group`**, or **`Activity`**..
+
 
 This type is useful for understanding non-`Org Chart` `Connections` that many might be familiar with, but not fully understand.
 
@@ -46,9 +46,9 @@ This type is useful for understanding non-`Org Chart` `Connections` that many mi
 
 ### Research
 
-{% hint style="success" %}
-The **`Research`** link connects an **`Individual`** or **`Organization`** to an **`Organization`**, **`Group`**, or **`Activity`**.
-{% endhint %}
+!!! success
+	The **`Research`** link connects an **`Individual`** or **`Organization`** to an **`Organization`**, **`Group`**, or **`Activity`**.
+
 
 As the name suggests, this .
 
@@ -56,9 +56,9 @@ As the name suggests, this .
 
 ### Member
 
-{% hint style="success" %}
-A **`Member`** **`Connection`** links **`Entities`** through participation in a membership function.
-{% endhint %}
+!!! success
+	A **`Member`** **`Connection`** links **`Entities`** through participation in a membership function.
+
 
 This link type is useful for understanding non-`Org Chart` `Connections` that many might be familiar with, but not fully understand. As with [#contributor](connections.md#contributor "mention"), it is unlikely to be receive [verification.md](verification.md "mention"), but may be helpful for some working on their own `Graph` views.
 
@@ -66,23 +66,23 @@ This link type is useful for understanding non-`Org Chart` `Connections` that ma
 
 ### Contributor
 
-{% hint style="success" %}
-**`Contributor`** links connect an **`Individual`** to another type of **`Entity`**, such as a **`Group`**, **`Activity`**, or **`Repository`**.
-{% endhint %}
+!!! success
+	**`Contributor`** links connect an **`Individual`** to another type of **`Entity`**, such as a **`Group`**, **`Activity`**, or **`Repository`**.
+
 
 One of the more prolific types of `Individual` links, `Contributor` allows for flexibility between `Entities`, opening up a number of different `Graph` opportunities.
 
 > **EXAMPLE**: As an `Author`,  `Jay Long` is also a `Contributor` to the `Modern War Institute`, an `Organization` that maintains a `Repository`.
 
-{% hint style="warning" %}
-_**NOTE**: The most likely source of a_ **`Contributor`** _link will be from the_ **`Individual`** _in question themselves. As such, it is unlikely, even for public_  **`Graph`** _views, that such links will receive_ [verification.md](verification.md "mention")_, if nothing else due to quantity._&#x20;
-{% endhint %}
+!!! warning
+	_**NOTE**: The most likely source of a_ **`Contributor`** _link will be from the_ **`Individual`** _in question themselves. As such, it is unlikely, even for public_  **`Graph`** _views, that such links will receive_ [verification.md](verification.md "mention")_, if nothing else due to quantity._&#x20;
+
 
 ### Author
 
-{% hint style="success" %}
-The **`Author`** link connects an **`Individual`** with an **`Artifact`**.
-{% endhint %}
+!!! success
+	The **`Author`** link connects an **`Individual`** with an **`Artifact`**.
+
 
 Writing is an important part of national security innovation, with ideas penned by some spawning `Activities` generated by others. This link type, similar to [#founder](connections.md#founder "mention")and [#contributor](connections.md#contributor "mention"), is best suited for evaluating the graph of an `Individual`.
 
@@ -90,23 +90,23 @@ Writing is an important part of national security innovation, with ideas penned 
 
 ### Founder
 
-{% hint style="success" %}
-A **`Founder`** link ties an **`Individual`** to an **`Organization`**, **`Group`**, or **`Activity`**.
-{% endhint %}
+!!! success
+	A **`Founder`** link ties an **`Individual`** to an **`Organization`**, **`Group`**, or **`Activity`**.
+
 
 This link is best suited for understanding the impact of `Individuals` on the broader national security innovation ecosystem, in concert with the [#contributor](connections.md#contributor "mention") link.
 
 > **EXAMPLE**: `Enrique Oti` has a `Founder` connection to `Kessel Run`.
 
-{% hint style="warning" %}
-_**NOTE**: The goal of the_ **`Founder`** _connection is to show a specific type of_ **`Contributor`**, but may be applied more broadly than to only a couple of **`Individuals`**, depending on the situation. We are also sensitive to "serial fake founders" that seek inappropriate credit and may remove this link type if it proves problematic, as with any link type.
-{% endhint %}
+!!! warning
+	_**NOTE**: The goal of the_ **`Founder`** _connection is to show a specific type of_ **`Contributor`**, but may be applied more broadly than to only a couple of **`Individuals`**, depending on the situation. We are also sensitive to "serial fake founders" that seek inappropriate credit and may remove this link type if it proves problematic, as with any link type.
+
 
 ### DEF Community
 
-{% hint style="success" %}
-The **`DEF Community`** link connects **`Entities`** in a specific configuration for graph visualizations.&#x20;
-{% endhint %}
+!!! success
+	The **`DEF Community`** link connects **`Entities`** in a specific configuration for graph visualizations.&#x20;
+
 
 This is DEF specific, helping create graph views that summarize the ways DEF links different national security elements as a way of illustrating its value and potential to the community, or opening opportunities for discussion.&#x20;
 

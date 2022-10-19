@@ -4,9 +4,9 @@ description: A network view of national security innovation.
 
 # 📈 Graph
 
-{% hint style="danger" %}
-**WARNING**: While we are experimenting with [kumu.md](../../learning/tools/kumu.md "mention") during the [alpha](../../release-notes/alpha/ "mention") and [beta.md](../../release-notes/beta.md "mention") stages of this project, the link to the `Graph` is likely to change (a result of how [kumu.md](../../learning/tools/kumu.md "mention") links are structured). We will keep this page linked as those changes occur, so if you get an error going to an old link, please come back here.
-{% endhint %}
+!!! danger
+	**WARNING**: While we are experimenting with [kumu.md](../../learning/tools/kumu.md "mention") during the [alpha](../../release-notes/alpha/ "mention") and [beta.md](../../release-notes/beta.md "mention") stages of this project, the link to the `Graph` is likely to change (a result of how [kumu.md](../../learning/tools/kumu.md "mention") links are structured). We will keep this page linked as those changes occur, so if you get an error going to an old link, please come back here.
+
 
 The [data](data/ "mention") in this project is great, and we are really excited to build it more and more, but what started it all was this idea about a network graph showing `Organizations` in the ecosystem.
 

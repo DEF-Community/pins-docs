@@ -12,6 +12,6 @@ When we think about people, we try to keep an open mind, wanting to lower barrie
 
 While we offer the option for people to be recognized as [contributors.md](../support/contributors.md "mention"), we recognize that not everyone will want this recognition, either by name or pseudonym. People, it turns out, have many different preferences, which makes all of this that much more messy and fun.
 
-{% hint style="info" %}
-If this idea of people beign at the center of our project intrigues you, be sure to check out [Broken link](broken-reference "mention") and [ethics.md](../support/ethics.md "mention"), as those sections are very human-centric
-{% endhint %}
+!!! info
+	If this idea of people beign at the center of our project intrigues you, be sure to check out [Broken link](broken-reference "mention") and [ethics.md](../support/ethics.md "mention"), as those sections are very human-centric
+

@@ -4,9 +4,9 @@ description: Multiple attributes of Entities that help capture their various dim
 
 # Tags
 
-{% hint style="warning" %}
-The idea of **`Tags`** is one we feel is important, but right now they are sort-of all over the place and we need to find a good balance between the [google-sheets.md](../../../learning/tools/google-sheets.md "mention") approach and something much more robust. We think [kumu.md](../../../learning/tools/kumu.md "mention") offers some options with JSON blueprints, but need to explore further.
-{% endhint %}
+!!! warning
+	The idea of **`Tags`** is one we feel is important, but right now they are sort-of all over the place and we need to find a good balance between the [google-sheets.md](../../../learning/tools/google-sheets.md "mention") approach and something much more robust. We think [kumu.md](../../../learning/tools/kumu.md "mention") offers some options with JSON blueprints, but need to explore further.
+
 
 `Tags` allow for the easy filtering of [entities.md](entities.md "mention") based on a single field with multiple keywords (e.g. `Kessel Run` is an `Entity` that might have the `Tags` `Military` `Air Force` `Software`, and so on.&#x20;
 

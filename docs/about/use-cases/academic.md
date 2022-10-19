@@ -4,9 +4,9 @@ description: Project applications for students, teachers, and researchers.
 
 # 🏫 Academic
 
-{% hint style="warning" %}
-While we are in the [alpha](../../release-notes/alpha/ "mention") and early [beta.md](../../release-notes/beta.md "mention") stages of this project we expect [.](./ "mention") to be pretty flexible and welcome [feedback.md](../feedback.md "mention") to tweak them.
-{% endhint %}
+!!! warning
+	While we are in the [alpha](../../release-notes/alpha/ "mention") and early [beta.md](../../release-notes/beta.md "mention") stages of this project we expect [.](./ "mention") to be pretty flexible and welcome [feedback.md](../feedback.md "mention") to tweak them.
+
 
 Many may be familiar with the role of academia in national security innovation by virtue of `Entities` like `University Affiliated Research Centers (UARCs)` or some sort of `National Security Innovation Network (NSIN)` activity with `Hacking for Defense (H4D)` or the like.
 

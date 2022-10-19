@@ -4,13 +4,13 @@ description: What it is we say that we do here and how it works.
 
 # Project Overview
 
-{% hint style="info" %}
-**Welcome!** :wave: **Thanks for your interest in national security and innovation.** This site documents our efforts for this project so that you can understand and engage with it.
-{% endhint %}
+!!! note
 
-{% hint style="success" %}
-This project is now in the public [beta.md](release-notes/beta.md "mention") phase, which means everything is live and we're picking up speed. Your thoughts and ideas are welcome either at hello@def.org or in the feedback form on NationalSecurityInnovation.org. :pray:
-{% endhint %}
+    **Welcome!** :wave: **Thanks for your interest in national security and innovation.** This site documents our efforts for this project so that you can understand and engage with it.
+
+!!! success
+
+    This project is now in the public [beta.md](release-notes/beta.md "mention") phase, which means everything is live and we're picking up speed. Your thoughts and ideas are welcome either at hello@def.org or in the feedback form on NationalSecurityInnovation.org. :pray:
 
 ### Structure of Docs
 

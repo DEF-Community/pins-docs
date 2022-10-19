@@ -4,9 +4,9 @@ description: Project applications for public servants and military personnel.
 
 # 🏛 Government
 
-{% hint style="warning" %}
-While we are in the [alpha](../../release-notes/alpha/ "mention") and early [beta.md](../../release-notes/beta.md "mention") stages of this project we expect [.](./ "mention") to be pretty flexible and welcome [feedback.md](../feedback.md "mention") to tweak them.
-{% endhint %}
+!!! warning
+	While we are in the [alpha](../../release-notes/alpha/ "mention") and early [beta.md](../../release-notes/beta.md "mention") stages of this project we expect [.](./ "mention") to be pretty flexible and welcome [feedback.md](../feedback.md "mention") to tweak them.
+
 
 Our hypothesis around the utility of this project for government use is largely about awareness and connectivity, but could also be linked with [education.md](../goals/education.md "mention").
 

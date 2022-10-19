@@ -6,9 +6,9 @@ description: >-
 
 # ➕ Additional Licenses
 
-{% hint style="warning" %}
-We do not yet have a formal [license.md](license.md "mention") decision in place and are not looking to extend any additiona licensing, but expect, based on the [license.md](license.md "mention") choice, that may happen.
-{% endhint %}
+!!! warning
+	We do not yet have a formal [license.md](license.md "mention") decision in place and are not looking to extend any additiona licensing, but expect, based on the [license.md](license.md "mention") choice, that may happen.
+
 
 What this means is that the baseline [license.md](license.md "mention") applies unless or until this section is updated and an additional license is granted.
 

@@ -4,9 +4,9 @@ description: How we manage trust in the Data.
 
 # Verification
 
-{% hint style="warning" %}
-More details on Verification will be available soon. An overview is provided below. We welcome suggestions, examples, and inputs!
-{% endhint %}
+!!! warning
+	More details on Verification will be available soon. An overview is provided below. We welcome suggestions, examples, and inputs!
+
 
 ### Speed vs. Trust
 

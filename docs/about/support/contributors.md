@@ -6,6 +6,6 @@ description: >-
 
 # 🙋 Contributors
 
-{% hint style="warning" %}
-We do not have a contributs list going yet, but hope to do so in the future as we work through the various [privacy.md](privacy.md "mention") and [security.md](security.md "mention") factors involved.
-{% endhint %}
+!!! warning
+	We do not have a contributs list going yet, but hope to do so in the future as we work through the various [privacy.md](privacy.md "mention") and [security.md](security.md "mention") factors involved.
+

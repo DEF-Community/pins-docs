@@ -11,6 +11,6 @@ We believe strongly in the need to test hypotheses, so these are our current hyp
 * [academic.md](academic.md "mention"): Identify trends for research, use material as part of a course on national security or innovation, and maybe even partner with the project.
 * [commercial.md](commercial.md "mention"): Understand the organization and structure of government innovation efforts and connect with other companies.
 
-{% hint style="warning" %}
-**NOTE**: We are assessing whether some user groups may have additional [license.md](../support/license.md "mention") restrictions to help align incentives based on intended use.&#x20;
-{% endhint %}
+!!! warning
+	**NOTE**: We are assessing whether some user groups may have additional [license.md](../support/license.md "mention") restrictions to help align incentives based on intended use.&#x20;
+

@@ -4,9 +4,9 @@ description: Project applications for startups, established businesses, and inve
 
 # 💰 Commercial
 
-{% hint style="warning" %}
-While we are in the [alpha](../../release-notes/alpha/ "mention") and early [beta.md](../../release-notes/beta.md "mention") stages of this project we expect [.](./ "mention") to be pretty flexible and welcome [feedback.md](../feedback.md "mention") to tweak them.
-{% endhint %}
+!!! warning
+	While we are in the [alpha](../../release-notes/alpha/ "mention") and early [beta.md](../../release-notes/beta.md "mention") stages of this project we expect [.](./ "mention") to be pretty flexible and welcome [feedback.md](../feedback.md "mention") to tweak them.
+
 
 **There are thousands of individuals and organizations in the commercial world trying to make sense of what the national security community is doing about innovation.**
 
@@ -32,9 +32,9 @@ Additionally, there are tons of patriotic and servant-minded people who choose t
 
 While we recognize the importance of startups, businesses, and investors in the spread of innovation across national security, we also know that some of the incentives and cycles they operate with are different than those of other project stakeholders.
 
-{% hint style="warning" %}
-**We are considering how to shape the** [license.md](../support/license.md "mention") **to address commercial use of the project in order to increase alignment and incentives.**
-{% endhint %}
+!!! warning
+	**We are considering how to shape the** [license.md](../support/license.md "mention") **to address commercial use of the project in order to increase alignment and incentives.**
+
 
 Functionally, this _might_ mean that commercial entities (and their employees)could be allowed to contribute in generative and aligned manners, but not use the project as a means of furthering their commercial aims.&#x20;
 
