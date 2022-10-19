@@ -1,0 +1,6 @@
+.dccache
+
+# ignores python virtualenv
+env/
+# ignores insiders edition of mkdocs-material
+mkdocs-material/
