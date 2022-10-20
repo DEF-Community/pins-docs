@@ -5,4 +5,3 @@ description: >-
 ---
 
 # Questions for Researchers
-

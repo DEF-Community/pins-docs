@@ -1,66 +1,55 @@
 ---
 description: How we plan to release new features.
+hide:
+    - toc
 ---
 
 # ⌚ Feature Timeline
 
+=== "Data"
 
+    This is a list of planned features and associated requests for project `Data`:
 
-{% tabs %}
-{% tab title="Data" %}
-This is a list of planned features and associated requests for project `Data`:
+    ### Planned Features
 
-### Planned Features
+    * [ ] Feature
 
-* [ ] Feature
+    ### Feature Requests
 
+    * [ ] Feature
 
+=== "Graph"
 
-### Feature Requests
+    This is a list of planned features and associated requests for the `Graph`:
 
-* [ ] Feature
-{% endtab %}
+    ### Planned Features
 
-{% tab title="Graph" %}
-This is a list of planned features and associated requests for the `Graph`:
+    * [ ] Feature
 
-### Planned Features
+    ### Feature Requests
 
-* [ ] Feature
+    * [ ] Feature
 
+=== "Timeline"
 
+    This is a list of planned features and associated requests for the `Timeline`:
 
-### Feature Requests
+    ### Planned Features
 
-* [ ] Feature
-{% endtab %}
+    * [ ] Feature
 
-{% tab title="Timeline" %}
-This is a list of planned features and associated requests for the `Timeline`:
+    ### Feature Requests
 
-### Planned Features
+    * [ ] Feature
 
-* [ ] Feature
+=== "Map"
 
+    This is a list of planned features and associated requests for the `Map`:
 
+    ### Planned Features
 
-### Feature Requests
+    * [ ] Feature
 
-* [ ] Feature
-{% endtab %}
+    ### Feature Requests
 
-{% tab title="Map" %}
-This is a list of planned features and associated requests for the `Map`:
-
-### Planned Features
-
-* [ ] Feature
-
-
-
-### Feature Requests
-
-* [ ] Feature
-{% endtab %}
-{% endtabs %}
-
+    * [ ] Feature

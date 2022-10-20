@@ -21,4 +21,3 @@ Thus was born this project, a data set and associated applications **designed to
 **Most of this project is free and open-source data** in keeping with the values of our community - it is available for reuse and remixing under the conditions of our [license.md](support/license.md "mention").
 
 We hope that you are as interested in what this project can contribute as we are and welcome your feedback and ideas! Check out the [Broken link](broken-reference "mention") section to find out ways to get involved and feel free to follow us and our [partners.md](support/partners.md "mention") on [LinkedIn](https://www.linkedin.com/company/defenseentrepreneurs/), [Twitter](https://www.twitter.com/defcommunity), [YouTube](https://www.youtube.com/defenseentrepreneurs), and more!
-

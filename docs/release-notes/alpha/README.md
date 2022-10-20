@@ -13,24 +13,22 @@ The other two will be addressed either in the [beta.md](../beta.md "mention") or
 
 Some of our tasks pursuant to these are listed below:
 
-{% tabs %}
-{% tab title="Data" %}
-* [x] Identify existing data sources or maps
-* [ ] Compile all `Government` `Organization` [entities.md](../../about/elements/data/entities.md "mention") from existing data sources
-* [ ] Add additional `Government` `Organizations` required to make `Org Chart` [connections.md](../../about/elements/data/connections.md "mention")
-* [ ] Make all relevant [connections.md](../../about/elements/data/connections.md "mention") between `Government` `Organizations`
-{% endtab %}
+=== "Data"
 
-{% tab title="Graph" %}
+    * [x] Identify existing data sources or maps
+    * [ ] Compile all `Government` `Organization` [entities.md](../../about/elements/data/entities.md "mention") from existing data sources
+    * [ ] Add additional `Government` `Organizations` required to make `Org Chart` [connections.md](../../about/elements/data/connections.md "mention")
+    * [ ] Make all relevant [connections.md](../../about/elements/data/connections.md "mention") between `Government` `Organizations`
 
-{% endtab %}
+=== "Graph"
 
-{% tab title="Map" %}
-No actions for this version.
-{% endtab %}
+    No actions for this version.
 
-{% tab title="Timeline" %}
-No actions for this version.
-{% endtab %}
-{% endtabs %}
+=== "Map"
+
+    No actions for this version.
+
+=== "Timeline"
+
+    No actions for this version.
 

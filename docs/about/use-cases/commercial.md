@@ -7,7 +7,6 @@ description: Project applications for startups, established businesses, and inve
 !!! warning
 	While we are in the [alpha](../../release-notes/alpha/ "mention") and early [beta.md](../../release-notes/beta.md "mention") stages of this project we expect [.](./ "mention") to be pretty flexible and welcome [feedback.md](../feedback.md "mention") to tweak them.
 
-
 **There are thousands of individuals and organizations in the commercial world trying to make sense of what the national security community is doing about innovation.**
 
 Some of these entities are established and have longstanding ties to government groups like DARPA or one of the military labs. Others are new additions to the community or trying to determine if their products or services would be a good fit. Beyond that, there are investors and institutions who want to see innovation in national security increase and are backing it with funding.

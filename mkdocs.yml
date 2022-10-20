@@ -2,7 +2,7 @@ site_name: Docs | PINS
 site_url: https://docs.nationalsecurityinnovation.org/
 # site_url: https://marines.dev/
 site_description: "The Project on Innovation in National Security is an exploratory effort incubated by the Defense Entrepreneurs Forum that seeks to increase understanding of the national security innovation ecosystem, improve data literacy, and support learning mindsets with opportunities to experiment."
-slogan: "#AnyMarineACoder"
+slogan: ""
 
 repo_url: https://github.com/DEF-Community/pins-docs
 repo_name: DEF-Community/pins-docs

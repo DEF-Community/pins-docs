@@ -14,4 +14,3 @@ While we offer the option for people to be recognized as [contributors.md](../su
 
 !!! info
 	If this idea of people beign at the center of our project intrigues you, be sure to check out [Broken link](broken-reference "mention") and [ethics.md](../support/ethics.md "mention"), as those sections are very human-centric
-

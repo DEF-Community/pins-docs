@@ -9,7 +9,6 @@ We have a few different types of `Connections` that help characterize [entities.
 !!! info
 	[connections.md](connections.md "mention") **and** [entities.md](entities.md "mention") **are the two foundational building blocks of the** [.](./ "mention").
 
-
 ## Links
 
 We are currently exploring these `Connections` and may add others. As with `Tags`, there is a lot to debate and try to understand, so we welcome [feedback.md](../../feedback.md "mention"). In the `Data`, these types of `Connections` are called `Links` to differentiate from actual `Connections` between `Entities`.
@@ -18,7 +17,6 @@ We are currently exploring these `Connections` and may add others. As with `Tags
 
 !!! success
 	An **`Org Chart`** connection links parent and child in an organizational hierarchy.&#x20;
-
 
 Almost all of the existing maps look at this dimension, which is important, especially for `Government` `Organizations` (which are subject to the views of their parent organizations and leadership, not to mention funding).
 

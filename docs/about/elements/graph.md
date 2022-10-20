@@ -18,9 +18,7 @@ We populated the [alpha](../../release-notes/alpha/ "mention") with just `Govern
 
 This will be most of the fun of this project (isn't [data-visualization.md](../../learning/concepts/data-visualization.md "mention") always fun?) and we look forward to [feedback.md](../feedback.md "mention"), so feel free to [contact-us.md](../contact-us.md "mention")!
 
-{% embed url="https://kumu.io/DEFCommunity/graph-national-security-innovation" %}
-Graph of National Security Innovation
-{% endembed %}
+<iframe src="https://embed.kumu.io/012373374fa1fe851e46846abd166fbb" width="940" height="600" frameborder="0"></iframe> 
 
 ### Future Graphs
 

@@ -14,4 +14,3 @@ Our hope is to work with [partners.md](../support/partners.md "mention") and lev
 
 !!! info
 	If you like this idea and want to get involved, please check out the various sub-elements in the [Broken link](broken-reference "mention") section and feel free to [contact-us.md](../contact-us.md "mention") as well!
-

@@ -22,4 +22,3 @@ In addition to those above, we think the following organizations are really cool
 
 * ****[**Golden**](https://golden.com) - a commercial company building the world's largest knowledge engine / graph, their software is interesting because it helps apply the kinds of data-centric ideas of this project to day-to-day challenges people in national security face (plus there is no way we could generate that level of detail for our work, so perhaps an opportunity to collaborate exists).
 * **Data-focused software companies** - way too many to list here, but we think this space has a lot of opportunity to help people explore and learn about these concepts while also driving greater connectivity across the ecosystem.
-
