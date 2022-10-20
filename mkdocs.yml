@@ -55,7 +55,7 @@ extra_css:
 markdown_extensions:
   - def_list
   - toc:
-      permalink: true
+      permalink: "🖈"
   - footnotes
   - admonition
   - pymdownx.details
