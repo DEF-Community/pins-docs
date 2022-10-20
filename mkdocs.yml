@@ -6,7 +6,7 @@ slogan: "#AnyMarineACoder"
 
 repo_url: https://github.com/DEF-Community/pins-docs
 repo_name: DEF-Community/pins-docs
-edit_uri: ""
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -88,6 +88,11 @@ plugins:
   - meta:
       meta_file: '**/.meta.yml' 
   - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-committers:
+      repository: DEF-Community/pins-docs
+      branch: main
 
 extra:
   social:
