@@ -91,11 +91,6 @@ plugins:
   - meta:
       meta_file: '**/.meta.yml' 
   - search
-  - git-revision-date-localized:
-      enable_creation_date: true
-  - git-committers:
-      repository: DEF-Community/pins-docs
-      branch: main
 
 extra:
   social:
