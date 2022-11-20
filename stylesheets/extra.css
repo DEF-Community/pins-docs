@@ -1,0 +1,157 @@
+/* Overwriting Themes */
+:root {
+    --def-bg: #010A13;
+    --def-bg--dark: #041f3e;
+    --def-bg--darkest: #041f3e;
+    --def-bg--light: #dee4e7;
+    --def-primary--light: #ecb7b7;
+    --def-primary: #448aff;
+    --md-text-font-family: "Public Sans Web,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol";
+}
+
+[data-md-color-scheme="marinecoders-light"] {
+    --md-primary-fg-color: var(--def-bg--dark);
+
+    --md-default-bg-color: #fff;
+    --opposite-color: black;
+
+}
+
+[data-md-color-scheme="slate"] {
+    --md-hue: 210;
+    --md-default-bg-color: var(--def-bg);
+    --md-primary-fg-color: var(--def-bg--dark);
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark: var(--def-primary);
+    --md-typeset-a-color: var(--def-primary);
+    --md-accent-fg-color: var(--def-primary);
+    --md-accent-fg-color--transparent: hsla(var(--def-primary), 0.1);
+    --opposite-color: white;
+}
+
+
+.md-footer {
+    background-color: transparent !important;
+    color: var(--opposite-color);
+}
+
+.md-banner {
+    background-color: var(--def-bg--dark);
+}
+
+.md-button {
+    color: var(--def-primary) !important;
+}
+
+.md-button:is(:focus, :hover) {
+    background-color: var(--def-primary);
+    border-color: var(--def-primary);
+    color: #ffffff !important;
+}
+
+.md-button--primary {
+    background-color: var(--def-primary) !important;
+    border-color: var(--def-primary) !important;
+    color: #ffffff !important;
+}
+
+.md-button--primary:is(:focus, :hover) {
+    background-color: #e44040 !important;
+    border-color: #e44040 !important;
+    color: #ffffff !important;
+}
+
+.md-footer-meta {
+    background-color: var(--def-bg--dark);
+}
+
+@media only screen and (max-width: 600px) {
+    .md-header__topic {
+        display: grid;
+    }
+
+    .md-header__custom {
+        display: contents;
+    }
+
+    .md-header__title {
+        line-height: 1.65rem;
+    }
+
+    /* Custom Element */
+    .md-header__sub {
+        font-weight: 100;
+        line-height: 0px;
+        font-size: .65em;
+    }
+}
+
+.md-header__sub {
+    color: var(--md-footer-fg-color--light);
+}
+
+/* PyMdown Extensions Progress Bar CSS */
+
+.progress-label {
+    position: absolute;
+    text-align: center;
+    font-weight: 700;
+    width: 100%;
+    margin: 0 ! important;
+    line-height: 1.2rem;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.progress-bar {
+    height: 1.2rem;
+    float: left;
+    background: repeating-linear-gradient(45deg,
+            rgba(255, 255, 255, 0.2),
+            rgba(255, 255, 255, 0.2) 10px,
+            rgba(255, 255, 255, 0.3) 10px,
+            rgba(255, 255, 255, 0.3) 20px) #2979ff;
+    border-radius: 2px;
+}
+
+.progress {
+    display: block;
+    width: 100%;
+    margin: 0.5rem 0;
+    height: 1.2rem;
+
+    position: relative;
+}
+
+.progress-100plus .progress-bar {
+    background-color: #00c853;
+}
+
+.progress-80plus .progress-bar {
+    background-color: #64dd17;
+}
+
+.progress-60plus .progress-bar {
+    background-color: #fbc02d;
+}
+
+.progress-40plus .progress-bar {
+    background-color: #ff9100;
+}
+
+.progress-20plus .progress-bar {
+    background-color: #ff5252;
+}
+
+.progress-0plus .progress-bar {
+    background-color: #ff1744;
+}
+
+/* Custom CSS */
+.no-padding {
+    padding: 0px !important;
+}
+
+.no-margin {
+    margin: 0px !important;
+}
